@@ -9,6 +9,7 @@ body {
 main {
   display: grid;
   row-gap: 1rem;
+  color: rgb(0, 0, 0);
 }
 main > *:not(:first-child) {
   margin: 0 1rem;

@@ -76,3 +76,7 @@ select,
   white-space: nowrap;
   clip-path: inset(100%);
 }
+
+body {
+  background-color: pink;
+}
